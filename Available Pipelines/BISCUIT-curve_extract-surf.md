@@ -2,9 +2,9 @@
 
 ---
 ## Table of Contents
-1. General Information
-2. Examples
-3. Links
+1. [General Information](https://github.com/VUIIS/vuiis-cci-info/blob/main/Available%20Pipelines/BISCUIT-curve_extract-surf.md#general-information)
+2. [Examples](https://github.com/VUIIS/vuiis-cci-info/blob/main/Available%20Pipelines/BISCUIT-curve_extract-surf.md#examples)
+3. [Links](https://github.com/VUIIS/vuiis-cci-info/blob/main/Available%20Pipelines/BISCUIT-curve_extract-surf.md#links)
 ---
 
 ### General Information
