@@ -2,7 +2,7 @@
 ---
 ## Table of Contents
 1. [General Information](https://github.com/VUIIS/vuiis-cci-info/blob/main/Available%20Pipelines/slant.md#general-information)
-2. [Examples](https://github.com/VUIIS/vuiis-cci-info/blob/main/Available%20Pipelines/slant.md#pdf-examples)
+2. [Examples](https://github.com/VUIIS/vuiis-cci-info/blob/main/Available%20Pipelines/slant.md#examples)
 3. [Links](https://github.com/VUIIS/vuiis-cci-info/blob/main/Available%20Pipelines/slant.md#links)
 ---
 
@@ -13,7 +13,7 @@
 - SHA256 Hash: slant_gpu_v1.1.0.simg (SHA256 dfbe54020e25e0b6b872263a637540790ceb16702584de77fa94bda679263c9e)
 
 ### Examples
-![Example](/images/slant_ABCD_T1W3D.png)
+![Slant Example](/vuiis-cci-info/Available Pipelines/images/slant_ABCD_T1W3D.png)
 
 ### Links
 - [GitHub Repo for Current Spider](https://github.com/MASILab/SLANTbrainSeg)
