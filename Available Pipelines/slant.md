@@ -7,6 +7,7 @@
 ---
 
 ### General Information
+**Version Information**
 - Current Version: slant_gpu_v1.1.0
 - Processor Name: slant_gpu_v1.1.0_processor.yaml
 - Singularity Recipe and Code: [https://github.com/MASILab/SLANTbrainSeg](https://github.com/MASILab/SLANTbrainSeg)
