@@ -13,7 +13,7 @@
 - SHA256 Hash: slant_gpu_v1.1.0.simg (SHA256 dfbe54020e25e0b6b872263a637540790ceb16702584de77fa94bda679263c9e)
 
 ### Examples
-![Slant Example](/vuiis-cci-info/Available Pipelines/images/slant_ABCD_T1W3D.png)
+<img src="https://github.com/VUIIS/vuiis-cci-info/blob/main/Available%20Pipelines/images/slant_ABCD_T1W3D.png" width="425" height="550">
 
 ### Links
 - [GitHub Repo for Current Spider](https://github.com/MASILab/SLANTbrainSeg)
