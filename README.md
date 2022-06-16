@@ -3,7 +3,8 @@
 To access the VUIIS XNAT portal use: [https://xnat4.vandyxnat.org/xnat/](https://xnat4.vandyxnat.org/xnat/)
 
 ### Table of Contents
-[Other Computational Resources by CCI Partners](#partners)
+[Other Computational Resources by CCI Partners](https://github.com/VUIIS/vuiis-cci-info/blob/main/README.md#other-computational-resources-by-cci-partners)
+
 [Citing XNAT/DAX](#citing)
 
 [xnat4.vandyxnat.org](https://xnat4.vandyxnat.org/xnat/) is operated by the VUIIS Center for Computational Imaging (VUIIS CCI) as part of the Human Imaging Core. The CCI is directed by [Baxter Rogers](https://vuiis.vumc.org/bio/baxter.rogers).
