@@ -12,3 +12,8 @@ Please note that our spider documentation is moving to readthedocs.org in an eff
 
 <a name="partners"/>
 ## Other Computational Resources by CCI Partners
+
+- [XNAT](https://www.xnat.org/) at WashU
+- [PyCap](https://pycap.readthedocs.io/en/latest/): Python wrapper around the REDCap Application Programming Interface
+  - Introduction to API programming with RedCAP. [http://sburns.org/2013/07/22/intro-to-redcap-api.html](http://sburns.org/2013/07/22/intro-to-redcap-api.html)
+  - P.S. Scott’s Burns’ whole blog is an amazing resource for RedCAP and Python hackers. [http://sburns.org/](http://sburns.org/)
