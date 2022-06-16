@@ -2,8 +2,8 @@
 
 ---
 ## Table of Contents
-1. General Information
-2. Examples
+1. [General Information](https://github.com/VUIIS/vuiis-cci-info/blob/main/Available%20Pipelines/brainagegap.md#general-information)
+2. [Examples](https://github.com/VUIIS/vuiis-cci-info/blob/main/Available%20Pipelines/brainagegap.md#examples)
 ---
 
 ### General Information
