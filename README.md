@@ -3,7 +3,7 @@
 To access the VUIIS XNAT portal use: [https://xnat4.vandyxnat.org/xnat/](https://xnat4.vandyxnat.org/xnat/)
 
 ### Table of Contents
----------------------
+-
 1. [Other Computational Resources by CCI Partners](https://github.com/VUIIS/vuiis-cci-info/blob/main/README.md#other-computational-resources-by-cci-partners)
 2. [Citing XNAT/DAX](https://github.com/VUIIS/vuiis-cci-info/blob/main/README.md#citing-xnatdax)
 
