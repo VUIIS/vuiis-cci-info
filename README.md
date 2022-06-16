@@ -1,6 +1,4 @@
-# VUIIS Center for Computational Imaging
-
-# WORK IN PROGRESS
+# WORK IN PROGRESS — VUIIS Center for Computational Imaging
 
 [VUIIS CCI XNAT](https://xnat4.vandyxnat.org/xnat/) is operated by the VUIIS Center for Computational Imaging (VUIIS CCI) as part of the Human Imaging Core. The CCI is directed by [Baxter Rogers](https://vuiis.vumc.org/bio/baxter.rogers).
 
