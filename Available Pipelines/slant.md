@@ -1,7 +1,7 @@
 # Slant
 ---
 ## Table of Contents
-1. [General Information](https://github.com/MASILab/SLANTbrainSeg)
+1. [General Information](https://github.com/VUIIS/vuiis-cci-info/blob/main/Available%20Pipelines/slant.md#general-information)
 2. [PDF Examples](https://github.com/VUIIS/vuiis-cci-info/edit/main/Available%20Pipelines/slant.md#pdf-examples)
 3. [Links](https://github.com/VUIIS/vuiis-cci-info/edit/main/Available%20Pipelines/slant.md#links)
 ---
