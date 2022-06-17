@@ -7,4 +7,5 @@
 - [cerebellum](cerebellum.md) - This singularity image does N4 bias field correction; MNI registration; Cerebellum parcellation; Report generation
 - [cersuit](cersuit.md) - Cerebellar segmentation with the SUIT atlas and toolbox
 - [Connectivity Atlases Flow](connectivity-atlases-flow.md)
+- [connectoflow](connectoflow.md)
 - [Slant](slant.md) - Deep Whole Brain High Resolution Segmentation
