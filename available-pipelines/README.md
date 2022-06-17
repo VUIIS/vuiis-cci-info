@@ -18,4 +18,5 @@
 - [LST](lst.md)
 - [MaCRUISE](macruise.md) – Consistent cortical reconstruction and multi-atlas brain segmentation
 - [magm_normalize](magm_normalize.md) – Computes a gray matter image from MultiAtlas output, and warps it to MNI space
+- [mriqc](mriqc.md) – Extracts Image Quality Metrics (IQMs) for anatomical and fMRI scans.
 - [Slant](slant.md) - Deep Whole Brain High Resolution Segmentation
