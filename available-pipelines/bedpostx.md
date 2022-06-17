@@ -11,4 +11,5 @@
 
 ## Examples
 
-- [Diffusion Tensor Imaging (DTI) Mixed FSP](pdfs/bedpostx.pdf) <img src="images/bedpostx.png" width="425" height="550">
+- [Diffusion Tensor Imaging (DTI) Mixed FSP](pdfs/bedpostx.pdf) 
+<img src="images/bedpostx.png" width="425" height="550">
