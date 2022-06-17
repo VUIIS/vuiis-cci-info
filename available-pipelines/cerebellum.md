@@ -51,12 +51,19 @@ In case post processing fails and the network output `*_seg.nii.gz` is preferred
 
 ## Examples
 **VUIIS_ABCD**
+
 - [cerebellum](pdfs/cerebellum.pdf)
 <img src="images/cerebellum.png" width="425" height="550">
+
 **LANDMAN_UPGRAD**
+
 - A: [cerebellum](pdfs/cerebellum_T1W.pdf)
 <img src="images/cerebellum_T1W.png" width="425" height="550">
+
 - B: [cerebellum](pdfs/cerebellum_T1.pdf)
 <img src="images/cerebellum_T1.png" width="425" height="550">
 
 ## References
+
+- [Shuo Han, Yufan He, Aaron Carass, Sarah H. Ying, and Jerry L. Prince “Cerebellum parcellation with convolutional neural networks”, Proc. SPIE 10949, Medical Imaging 2019: Image Processing, 109490K (15 March 2019); https://doi.org/10.1117/12.2512119](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10949/2512119/Cerebellum-parcellation-with-convolutional-neural-networks/10.1117/12.2512119.short?SSO=1&tab=ArticleLink)
+To better understand cerebellum-related diseases and functional mapping of the cerebellum, quantitative measurements of cerebellar regions in magnetic resonance (MR) images have been studied in both clinical and neurological studies. Such studies have revealed that different spinocerebellar ataxia (SCA) subtypes have different patterns of cerebellar atrophy and that atrophy of different cerebellar regions is correlated with specific functional losses. Previous methods to automatically parcellate the cerebellum, that is, to identify its sub-regions, have been largely based on multi-atlas segmentation. Recently, deep convolutional neural network (CNN) algorithms have been shown to have high speed and accuracy in cerebral sub-cortical structure segmentation from MR images. In this work, two three-dimensional CNNs were used to parcellate the cerebellum into 28 regions. First, a locating network was used to predict a bounding box around the cerebellum. Second, a parcellating network was used to parcellate the cerebellum using the entire region within the bounding box. A leave-one-out cross validation of fifteen manually delineated images was performed. Compared with a previously reported state-ofthe-art algorithm, the proposed algorithm shows superior Dice coefficients. The proposed algorithm was further applied to three MR images of a healthy subject and subjects with SCA6 and SCA8, respectively. A Singularity container of this algorithm is publicly available.
