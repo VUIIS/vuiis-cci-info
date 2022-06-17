@@ -50,7 +50,6 @@ The following spiders are now a part of BISCUIT but are no longer supported by t
 - A: [biscuit_fs_v2](pdfs/biscuit_fs_v2_T1W_LU.pdf)
 - B: [biscuit_fs_v2](pdfs/biscuit_fs_v2_T1_LU.pdf)
 
-
 ## Code
 
 - Cortical surface registration: https://github.com/ilwoolyu/HSD
@@ -64,7 +63,6 @@ The following spiders are now a part of BISCUIT but are no longer supported by t
 - Local gyrification index: https://github.com/ilwoolyu/LocalGyrificationIndex
 
 - Shape complexity index: https://github.com/NIRALUser/ShapeComplexityIndex
-
 
 ## References
 
