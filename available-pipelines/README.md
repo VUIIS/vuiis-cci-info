@@ -9,4 +9,5 @@
 - [Connectivity Atlases Flow](connectivity-atlases-flow.md)
 - [connectoflow](connectoflow.md)
 - [connprep](connprep.md) - Produces preprocessed fMRI images ready for connectivity analysis
+- [DTIQA/PreQual](dtiqa-prequal.md)- Preprocessing and quality checks for diffusion data
 - [Slant](slant.md) - Deep Whole Brain High Resolution Segmentation
