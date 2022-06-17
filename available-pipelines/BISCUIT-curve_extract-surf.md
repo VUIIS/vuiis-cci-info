@@ -51,30 +51,22 @@ The following spiders are now a part of BISCUIT but are no longer supported by t
 - T<sub>1</sub>-Weighted PDF: [biscuit_fs_v2](pdfs/biscuit_fs_v2_T1W_LU.pdf)
 - T<sub>1</sub> PDF: [biscuit_fs_v2](pdfs/biscuit_fs_v2_T1_LU.pdf)
 
-## Links
+## References
 
-- [Cortical surface registration](https://github.com/ilwoolyu/HSD)
+[Cortical surface registration](https://github.com/ilwoolyu/HSD)
 
----
-
-- [Lyu, I., Kang, H., Woodward, N., Styner, M., Landman, B., Hierarchical Spherical Deformation for Cortical Surface Registration, Medical Image Analysis, 57, 72-88, 2019](https://pubmed.ncbi.nlm.nih.gov/31280090/)
+[Lyu, I., Kang, H., Woodward, N., Styner, M., Landman, B., Hierarchical Spherical Deformation for Cortical Surface Registration, Medical Image Analysis, 57, 72-88, 2019](https://pubmed.ncbi.nlm.nih.gov/31280090/)
 
 We present hierarchical spherical deformation for a group-wise shape correspondence to address template selection bias and to minimize registration distortion. In this work, we aim at a continuous and smooth deformation field to guide accurate cortical surface registration. In conventional spherical registration methods, a global rigid alignment and local deformation are independently performed. Motivated by the composition of precession and intrinsic rotation, we simultaneously optimize global rigid rotation and non-rigid local deformation by utilizing spherical harmonics interpolation of local composite rotations in a single framework. To this end, we indirectly encode local displacements by such local composite rotations as functions of spherical locations. Furthermore, we introduce an additional regularization term to the spherical deformation, which maximizes its rigidity while reducing registration distortion. To improve surface registration performance, we employ the second order approximation of the energy function that enables fast convergence of the optimization. In the experiments, we validate our method on healthy normal subjects with manual cortical surface parcellation in registration accuracy and distortion. We show an improved shape correspondence with high accuracy in cortical surface parcellation and significantly low registration distortion in surface area and edge length. In addition to validation, we discuss parameter tuning, optimization, and implementation design with potential acceleration.
 
-
----
-
-– [Cortical Surface Parcellation using Spherical Convolutional Neural Networks](https://pubmed.ncbi.nlm.nih.gov/31803864/)
-
-**Abstract**
+[Parvathaneni P, Bao S, Nath V, et al. Cortical Surface Parcellation using Spherical Convolutional Neural Networks. Med Image Comput Comput Assist Interv. 2019;11766:501‐509. doi:10.1007/978-3-030-32248-9_56](https://pubmed.ncbi.nlm.nih.gov/31803864/)
 
 We present cortical surface parcellation using spherical deep convolutional neural networks. Traditional multi-atlas cortical surface parcellation requires inter-subject surface registration using geometric features with slow processing speed on a single subject (2-3 hours). Moreover, even optimal surface registration does not necessarily produce optimal cortical parcellation as parcel boundaries are not fully matched to the geometric features. In this context, a choice of training features is important for accurate cortical parcellation. To utilize the networks efficiently, we propose cortical parcellation-specific input data from an irregular and complicated structure of cortical surfaces. To this end, we align ground-truth cortical parcel boundaries and use their resulting deformation fields to generate new pairs of deformed geometric features and parcellation maps. To extend the capability of the networks, we then smoothly morph cortical geometric features and parcellation maps using the intermediate deformation fields. We validate our method on 427 adult brains for 49 labels. The experimental results show that our method outperforms traditional multi-atlas and naive spherical U-Net approaches, while achieving full cortical parcellation in less than a minute.
 
-*Parvathaneni P, Bao S, Nath V, et al. Cortical Surface Parcellation using Spherical Convolutional Neural Networks. Med Image Comput Comput Assist Interv. 2019;11766:501‐509. doi:10.1007/978-3-030-32248-9_56*
 
 ---
 
-– [Cortical surface protocols brainCOLOR](https://mindboggle.info/braincolor/)
+[Cortical surface protocols (brainCOLOR)](https://mindboggle.info/braincolor/)
 
 ---
 
