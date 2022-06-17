@@ -12,7 +12,7 @@ The following spiders are now a part of BISCUIT but are no longer supported by t
 - surf_quant_stat
 - curve_extract
 
-**Requirements**
+**Requirements/Prerequisites**
 
 - biscuit_fs
   - FS6 pipeline
