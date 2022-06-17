@@ -5,4 +5,5 @@
 - [BrainAgeGap](brainagegap.md)
 - [cat12_ss2p0](cat12_ss2p0.md) - Computational Anatomy Toolbox for SPM
 - [cerebellum](cerebellum.md) - This singularity image does N4 bias field correction; MNI registration; Cerebellum parcellation; Report generation
+- [cersuit](cersuit.md) - Cerebellar segmentation with the SUIT atlas and toolbox
 - [Slant](slant.md) - Deep Whole Brain High Resolution Segmentation
