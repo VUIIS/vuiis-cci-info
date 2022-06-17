@@ -1,12 +1,10 @@
 # BrainAgeGap
 
-## General Information
-
-**Requirements/Prerequisites**
+## Requirements/Prerequisites
 
 - Multi_Atlas pipeline
 
-**Version Information**
+## Version Information
 
 - Current Version: BrainAgeGap_v2.0.2
 - Processor Name: BrainAgeGap_v2.0.2_processor.yaml
