@@ -8,4 +8,5 @@
 - [cersuit](cersuit.md) - Cerebellar segmentation with the SUIT atlas and toolbox
 - [Connectivity Atlases Flow](connectivity-atlases-flow.md)
 - [connectoflow](connectoflow.md)
+- [connprep](connprep.md) - Produces preprocessed fMRI images ready for connectivity analysis
 - [Slant](slant.md) - Deep Whole Brain High Resolution Segmentation
