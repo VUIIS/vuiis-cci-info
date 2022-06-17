@@ -4,7 +4,7 @@ BISCUIT: Brain Shape Computing Toolbox – An Automated Pipeline for Cortical Mo
 
 Brain Shape Computing Toolbox (BISCUIT) is a consolidated toolbox for cortical shape morphometry including (1) sulcal curve delineation for geometric feature extraction/ROI definition, (2) surface registration for cortical shape correspondence, and (3) local gyrification index for cortical shape quantification. These tools take an input mesh file(s) to generate and capture meaningful shape characteristics. BISCUIT is a wrapper of CMorph – a collection of surface processing tools.
 
-**Important**
+## Important
 
 The following spiders are now a part of BISCUIT but are no longer supported by themselves:
 - surf_postproc
@@ -12,20 +12,20 @@ The following spiders are now a part of BISCUIT but are no longer supported by t
 - surf_quant_stat
 - curve_extract
 
-**Requirements/Prerequisites**
+## Requirements/Prerequisites
 
 - biscuit_fs
   - FS6 pipeline
 - biscuit_mc
   - macruise_multiatlas pipeline
 
-**Version Information**
+## Version Information
 
 - Current Version: biscuit_fs_v2.0.0 & biscuit_mc_v2.0.0
 - Processor Name: biscuit_fs_v2.0.0_processor.yaml & biscuit_mc_v2.0.0_processor.yaml
 - Singularity Image: biscuit_FC_v2.0.simg (SHA256 bf71ad116187a237a30cddc1ab85074545358d799a9c67e730acd6d84efb225e)
 
-**Patch Notes**
+## Patch Notes
 
 1. Version: 2.0.0 (6/22/2019)
   - HSD: improved performance and numerical accuracy
