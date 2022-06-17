@@ -23,8 +23,7 @@ The following spiders are now a part of BISCUIT but are no longer supported by t
 
 - Current Version: biscuit_fs_v2.0.0 & biscuit_mc_v2.0.0
 - Processor Name: biscuit_fs_v2.0.0_processor.yaml & biscuit_mc_v2.0.0_processor.yaml
-- Repositories: [https://github.com/ilwoolyu?tab=repositories](https://github.com/ilwoolyu?tab=repositories)
-- SHA256 Hash: biscuit_FC_v2.0.simg (SHA256 bf71ad116187a237a30cddc1ab85074545358d799a9c67e730acd6d84efb225e)
+- Singularity Image: biscuit_FC_v2.0.simg (SHA256 bf71ad116187a237a30cddc1ab85074545358d799a9c67e730acd6d84efb225e)
 
 **Patch Notes**
 
