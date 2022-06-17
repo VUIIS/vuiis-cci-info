@@ -13,4 +13,5 @@
 - [examcard-to-txt](examcard-to-txt.md) - Convert examcards from DICOM to TXT, HTML, and PDF formats
 - [FMRIQA](fmriqa.md) - Motion realignment and creation of mean fMRI; Coregister T1 to mean fMRI; Compute SNR and quality metrics; Carpet plots, graphical report
 - [freesurfer](freesurfer.md) - Runs Freesurfer’s recon-all, plus hippocampus, thalamus, brainstem segmentation modules
+- [freesurfer720](freesurfer720.md)
 - [Slant](slant.md) - Deep Whole Brain High Resolution Segmentation
