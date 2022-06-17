@@ -34,22 +34,22 @@ The following spiders are now a part of BISCUIT but are no longer supported by t
   - LGI: fixed numerical instability under certain circumstances
   - BISCUIT: improved PDF layouts
 
-## Examples
+## Examples (QA PDFs)
 
 **VUIIS_ABCD**
 
-- T<sub>1</sub>-Weighted PDF: [biscuit_fs_v2](pdfs/biscuit_fs_v2_ABCD.pdf)
-- T<sub>1</sub>-Weighted PDF: [biscuit_mc_v2](pdfs/biscuit_mc_v2_ABCD.pdf)
-- T<sub>1</sub>-Weighted PDF: [CurvExtractionspider](pdfs/CurvExtractionspider.pdf)
-- T<sub>1</sub>-Weighted PDF: [SurfPostProcspider](pdfs/SurfPostProcspider.pdf)
-- T<sub>1</sub>-Weighted PDF: [SurfPostProcFsSpider](pdfs/SurfPostProcFsSpider.pdf)
-- T<sub>1</sub>-Weighted PDF: [SurfQuantSpider](pdfs/SurfQuantspider.pdf)
-- T<sub>1</sub>-Weighted PDF: [SurfQuantStatSpider](pdfs/SurfQuantStatspider.pdf)
+- [biscuit_fs_v2](pdfs/biscuit_fs_v2_ABCD.pdf)
+- [biscuit_mc_v2](pdfs/biscuit_mc_v2_ABCD.pdf)
+- [CurvExtractionspider](pdfs/CurvExtractionspider.pdf)
+- [SurfPostProcspider](pdfs/SurfPostProcspider.pdf)
+- [SurfPostProcFsSpider](pdfs/SurfPostProcFsSpider.pdf)
+- [SurfQuantSpider](pdfs/SurfQuantspider.pdf)
+- [SurfQuantStatSpider](pdfs/SurfQuantStatspider.pdf)
 
 **LANDMAN_UPGRAD**
 
-- T<sub>1</sub>-Weighted PDF: [biscuit_fs_v2](pdfs/biscuit_fs_v2_T1W_LU.pdf)
-- T<sub>1</sub> PDF: [biscuit_fs_v2](pdfs/biscuit_fs_v2_T1_LU.pdf)
+- A: [biscuit_fs_v2](pdfs/biscuit_fs_v2_T1W_LU.pdf)
+- B: [biscuit_fs_v2](pdfs/biscuit_fs_v2_T1_LU.pdf)
 
 
 ## Code
