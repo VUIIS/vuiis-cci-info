@@ -16,4 +16,5 @@
 - [freesurfer720](freesurfer720.md)
 - [FS6](fs6.md)
 - [LST](lst.md)
+- [MaCRUISE](macruise.md) – Consistent cortical reconstruction and multi-atlas brain segmentation
 - [Slant](slant.md) - Deep Whole Brain High Resolution Segmentation
