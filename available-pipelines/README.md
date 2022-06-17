@@ -15,4 +15,5 @@
 - [freesurfer](freesurfer.md) - Runs Freesurfer’s recon-all, plus hippocampus, thalamus, brainstem segmentation modules
 - [freesurfer720](freesurfer720.md)
 - [FS6](fs6.md)
+- [LST](lst.md)
 - [Slant](slant.md) - Deep Whole Brain High Resolution Segmentation
