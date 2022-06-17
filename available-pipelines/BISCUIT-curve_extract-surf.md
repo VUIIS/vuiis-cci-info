@@ -54,17 +54,17 @@ The following spiders are now a part of BISCUIT but are no longer supported by t
 
 ## Code
 
-- [Cortical surface registration](https://github.com/ilwoolyu/HSD)
+- Cortical surface registration: https://github.com/ilwoolyu/HSD
 
-- [Cortical surface protocols (brainCOLOR)](https://mindboggle.info/braincolor/)
+- Cortical surface protocols (brainCOLOR): https://mindboggle.info/braincolor/
 
-– [Cortical surface protocols (Mindboggle)](https://mindboggle.readthedocs.io/en/latest/labels.html)
+- Cortical surface protocols (Mindboggle): https://mindboggle.readthedocs.io/en/latest/labels.html
 
-- [Cortical sulcal/gyral curve extraction](https://github.com/ilwoolyu/CurveExtraction)
+- Cortical sulcal/gyral curve extraction: https://github.com/ilwoolyu/CurveExtraction
 
-- [Local gyrification index](https://github.com/ilwoolyu/LocalGyrificationIndex)
+- Local gyrification index: https://github.com/ilwoolyu/LocalGyrificationIndex
 
-– [Shape complexity index](https://github.com/NIRALUser/ShapeComplexityIndex)
+- Shape complexity index: https://github.com/NIRALUser/ShapeComplexityIndex
 
 
 ## References
