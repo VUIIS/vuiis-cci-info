@@ -11,4 +11,5 @@
 - [connprep](connprep.md) - Produces preprocessed fMRI images ready for connectivity analysis
 - [DTIQA/PreQual](dtiqa-prequal.md)- Preprocessing and quality checks for diffusion data
 - [examcard-to-txt](examcard-to-txt.md) - Convert examcards from DICOM to TXT, HTML, and PDF formats
+- [FMRIQA](fmriqa.md) - Motion realignment and creation of mean fMRI; Coregister T1 to mean fMRI; Compute SNR and quality metrics; Carpet plots, graphical report
 - [Slant](slant.md) - Deep Whole Brain High Resolution Segmentation
