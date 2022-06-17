@@ -56,7 +56,7 @@ The following spiders are now a part of BISCUIT but are no longer supported by t
 
 - Cortical surface registration: https://github.com/ilwoolyu/HSD
 
-- Cortical surface protocols (brainCOLOR): https://mindboggle.info/braincolor/
+- Cortical surface protocols (brainCOLOR): https://mindboggle.info/braincolor
 
 - Cortical surface protocols (Mindboggle): https://mindboggle.readthedocs.io/en/latest/labels.html
 
