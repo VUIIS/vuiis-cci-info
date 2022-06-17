@@ -6,15 +6,9 @@ Overview/description of pipeline is a paragraph or two here.
 
 **Inputs**
 
-- T1 image
-- T2 image
-- ...
-
-**Prerequisite Pipelines**
-
-- Prereq1
-  - Prereq pipeline of Prereq1 (if there is one)
-- Prereq 2
+- T1 image in NIFTI format
+- T2 image in NIFTI format
+- Output XYZ of [prerequisite pipeline 1](prereq-pipeline1.md)
 - ...
 
 **Version**
