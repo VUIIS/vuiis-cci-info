@@ -20,4 +20,5 @@
 - [magm_normalize](magm_normalize.md) – Computes a gray matter image from MultiAtlas output, and warps it to MNI space
 - [mriqc](mriqc.md) – Extracts Image Quality Metrics (IQMs) for anatomical and fMRI scans.
 - [Multi_Atlas](multi_atlas.md) – loads the multi-atlas segmentation result images (SEG/orig_target_seg.nii.gz, and TICV/orig_target_ticv.nii.gz if available) and computes regional volumes
+- [nobis_tracts](nobis_tracts.md) – Generate extended-amygdalar to brainstem structural connectomes from diffusion weighted and T1-weighted images
 - [Slant](slant.md) - Deep Whole Brain High Resolution Segmentation
