@@ -10,4 +10,5 @@
 - [connectoflow](connectoflow.md)
 - [connprep](connprep.md) - Produces preprocessed fMRI images ready for connectivity analysis
 - [DTIQA/PreQual](dtiqa-prequal.md)- Preprocessing and quality checks for diffusion data
+- [examcard-to-txt](examcard-to-txt.md) - Convert examcards from DICOM to TXT, HTML, and PDF formats
 - [Slant](slant.md) - Deep Whole Brain High Resolution Segmentation
