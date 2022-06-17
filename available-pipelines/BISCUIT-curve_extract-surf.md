@@ -1,14 +1,5 @@
 # BISCUIT, curve_extract, and surf_*
 
----
-## Table of Contents
-1. [General Information](https://github.com/VUIIS/vuiis-cci-info/blob/main/Available%20Pipelines/BISCUIT-curve_extract-surf.md#general-information)
-2. [Examples](https://github.com/VUIIS/vuiis-cci-info/blob/main/Available%20Pipelines/BISCUIT-curve_extract-surf.md#examples)
-3. [Links](https://github.com/VUIIS/vuiis-cci-info/blob/main/Available%20Pipelines/BISCUIT-curve_extract-surf.md#links)
----
-
-### General Information
-
 BISCUIT: Brain Shape Computing Toolbox – An Automated Pipeline for Cortical Morphometry
 
 Brain Shape Computing Toolbox (BISCUIT) is a consolidated toolbox for cortical shape morphometry including (1) sulcal curve delineation for geometric feature extraction/ROI definition, (2) surface registration for cortical shape correspondence, and (3) local gyrification index for cortical shape quantification. These tools take an input mesh file(s) to generate and capture meaningful shape characteristics. BISCUIT is a wrapper of CMorph – a collection of surface processing tools.
@@ -43,36 +34,33 @@ The following spiders are now a part of BISCUIT but are no longer supported by t
   - LGI: fixed numerical instability under certain circumstances
   - BISCUIT: improved PDF layouts
 
-### Examples
+## Examples
 
 **VUIIS_ABCD**
 
-- T<sub>1</sub>-Weighted PDF: [biscuit_fs_v2](https://github.com/VUIIS/vuiis-cci-info/blob/main/Available%20Pipelines/pdfs/biscuit_fs_v2_ABCD.pdf)
-- T<sub>1</sub>-Weighted PDF: [biscuit_mc_v2](https://github.com/VUIIS/vuiis-cci-info/blob/main/Available%20Pipelines/pdfs/biscuit_mc_v2_ABCD.pdf)
-- T<sub>1</sub>-Weighted PDF: [CurvExtractionspider](https://github.com/VUIIS/vuiis-cci-info/blob/main/Available%20Pipelines/pdfs/CurvExtractionspider.pdf)
-- T<sub>1</sub>-Weighted PDF: [SurfPostProcspider](https://github.com/VUIIS/vuiis-cci-info/blob/main/Available%20Pipelines/pdfs/SurfPostProcspider.pdf)
-- T<sub>1</sub>-Weighted PDF: [SurfPostProcFsSpider](https://github.com/VUIIS/vuiis-cci-info/blob/main/Available%20Pipelines/pdfs/SurfPostProcFsSpider.pdf)
-- T<sub>1</sub>-Weighted PDF: [SurfQuantSpider](https://github.com/VUIIS/vuiis-cci-info/blob/main/Available%20Pipelines/pdfs/SurfQuantspider.pdf)
-- T<sub>1</sub>-Weighted PDF: [SurfQuantStatSpider](https://github.com/VUIIS/vuiis-cci-info/blob/main/Available%20Pipelines/pdfs/SurfQuantStatspider.pdf)
+- T<sub>1</sub>-Weighted PDF: [biscuit_fs_v2](pdfs/biscuit_fs_v2_ABCD.pdf)
+- T<sub>1</sub>-Weighted PDF: [biscuit_mc_v2](pdfs/biscuit_mc_v2_ABCD.pdf)
+- T<sub>1</sub>-Weighted PDF: [CurvExtractionspider](pdfs/CurvExtractionspider.pdf)
+- T<sub>1</sub>-Weighted PDF: [SurfPostProcspider](pdfs/SurfPostProcspider.pdf)
+- T<sub>1</sub>-Weighted PDF: [SurfPostProcFsSpider](pdfs/SurfPostProcFsSpider.pdf)
+- T<sub>1</sub>-Weighted PDF: [SurfQuantSpider](pdfs/SurfQuantspider.pdf)
+- T<sub>1</sub>-Weighted PDF: [SurfQuantStatSpider](pdfs/SurfQuantStatspider.pdf)
 
 **LANDMAN_UPGRAD**
 
-- T<sub>1</sub>-Weighted PDF: [biscuit_fs_v2](https://github.com/VUIIS/vuiis-cci-info/blob/main/Available%20Pipelines/pdfs/biscuit_fs_v2_T1W_LU.pdf)
-- T<sub>1</sub> PDF: [biscuit_fs_v2](https://github.com/VUIIS/vuiis-cci-info/blob/main/Available%20Pipelines/pdfs/biscuit_fs_v2_T1_LU.pdf)
+- T<sub>1</sub>-Weighted PDF: [biscuit_fs_v2](pdfs/biscuit_fs_v2_T1W_LU.pdf)
+- T<sub>1</sub> PDF: [biscuit_fs_v2](pdfs/biscuit_fs_v2_T1_LU.pdf)
 
-### Links
+## Links
 
 - [Cortical surface registration](https://github.com/ilwoolyu/HSD)
 
 ---
 
-- [Hierarchical spherical deformation for cortical surface registration](https://pubmed.ncbi.nlm.nih.gov/31280090/)
-
-**Abstract**
+- [Lyu, I., Kang, H., Woodward, N., Styner, M., Landman, B., Hierarchical Spherical Deformation for Cortical Surface Registration, Medical Image Analysis, 57, 72-88, 2019](https://pubmed.ncbi.nlm.nih.gov/31280090/)
 
 We present hierarchical spherical deformation for a group-wise shape correspondence to address template selection bias and to minimize registration distortion. In this work, we aim at a continuous and smooth deformation field to guide accurate cortical surface registration. In conventional spherical registration methods, a global rigid alignment and local deformation are independently performed. Motivated by the composition of precession and intrinsic rotation, we simultaneously optimize global rigid rotation and non-rigid local deformation by utilizing spherical harmonics interpolation of local composite rotations in a single framework. To this end, we indirectly encode local displacements by such local composite rotations as functions of spherical locations. Furthermore, we introduce an additional regularization term to the spherical deformation, which maximizes its rigidity while reducing registration distortion. To improve surface registration performance, we employ the second order approximation of the energy function that enables fast convergence of the optimization. In the experiments, we validate our method on healthy normal subjects with manual cortical surface parcellation in registration accuracy and distortion. We show an improved shape correspondence with high accuracy in cortical surface parcellation and significantly low registration distortion in surface area and edge length. In addition to validation, we discuss parameter tuning, optimization, and implementation design with potential acceleration.
 
-*Lyu, I., Kang, H., Woodward, N., Styner, M., Landman, B., Hierarchical Spherical Deformation for Cortical Surface Registration, Medical Image Analysis, 57, 72-88, 2019*
 
 ---
 
