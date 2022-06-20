@@ -10,12 +10,10 @@
 
 **VUIIS_ABCD**
 
-- [RSFC_CONN_v1](pdfs/rsfc_conn_1_fsp.pdf)
-
-- [RSFC_CONN_v1](pdfs/rsfc_conn_1_fsa.pdf)
+- A: [RSFC_CONN_v1](pdfs/rsfc_conn_1_fsp.pdf)
+- B: [RSFC_CONN_v1](pdfs/rsfc_conn_1_fsa.pdf)
 
 **LANDMAN_UPGRAD**
 
-- [RSFC_CONN_v1](pdfs/RSFC_CONN_v1_T1W_RESTING.pdf)
-
-- [RSFC_CONN_v1](pdfs/RSFC_CONN_v1_T1_RESTING.pdf)
+- A: [RSFC_CONN_v1](pdfs/RSFC_CONN_v1_T1W_RESTING.pdf)
+- B: [RSFC_CONN_v1](pdfs/RSFC_CONN_v1_T1_RESTING.pdf)
