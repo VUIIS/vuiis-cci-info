@@ -1,5 +1,11 @@
 # Available Pipelines
 
+## Building Spiders 101
+
+[Documentation for Creating Spiders](bulding_spiders.md)
+
+## Currently Available Pipelines
+
 - [bedpostx](bedpostx.md) - FSL fiber orientation estimation for diffusion images
 - [BISCUIT, curve_extract, and surf_*](BISCUIT-curve_extract-surf.md) - Brain Shape Computing Toolbox – An Automated Pipeline for Cortical Morphometry
 - [BrainAgeGap](brainagegap.md)
