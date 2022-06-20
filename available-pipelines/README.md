@@ -4,6 +4,10 @@
 
 [Documentation for Creating Spiders](building_spiders.md)
 
+## Preparing Matlab Code for Spider Conversion
+
+[Requirements for Converting Matlab code-base to Spider](matlab_code_spider_conversion.md)
+
 ## Currently Available Pipelines
 
 - [bedpostx](bedpostx.md) - FSL fiber orientation estimation for diffusion images
