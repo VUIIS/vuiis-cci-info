@@ -2,7 +2,7 @@
 
 ## Building Spiders 101
 
-[Documentation for Creating Spiders](bulding_spiders.md)
+[Documentation for Creating Spiders](building_spiders.md)
 
 ## Currently Available Pipelines
 
