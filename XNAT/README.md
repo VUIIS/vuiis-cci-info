@@ -4,7 +4,7 @@
 
 - [BIDSMapping: Walkthrough Tutorial]()
 - [Download Data from XNAT]()
-- [Project Level Files for Vanderbilt XNAT]()
+- [Project Level Files for Vanderbilt XNAT](project_level_files.md)
 - [Sending DICOM to Vanderbilt XNAT]()
 - [Upload Data to XNAT]()
 
