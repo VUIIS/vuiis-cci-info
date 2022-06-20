@@ -15,14 +15,14 @@ RecoBundles is a white matter bundle recognition method developed by Garyfallidi
 
 ## Examples
 
-- [RecoBundles_v1](recobundles_dti_T1W.pdf)
-- [RecoBundles_v1](recobundles_dti2_T1W.pdf)
-- [RecoBundles_v1](recobundles_dtiapa_T1W.pdf)
-- [RecoBundles_v1](recobundles_LU_hardi_T1W.pdf)
-- [RecoBundles_v1](recobundles_dti_T1.pdf)
-- [RecoBundles_v1](recobundles_LU_dti2_T1.pdf)
-- [RecoBundles_v1](recobundles_dtiapa_T1.pdf)
-- [RecoBundles_v1](recobundles_LU_hardi_T1.pdf)
+- A: [RecoBundles_v1](recobundles_dti_T1W.pdf)
+- B: [RecoBundles_v1](recobundles_dti2_T1W.pdf)
+- C: [RecoBundles_v1](recobundles_dtiapa_T1W.pdf)
+- D: [RecoBundles_v1](recobundles_LU_hardi_T1W.pdf)
+- E: [RecoBundles_v1](recobundles_dti_T1.pdf)
+- F: [RecoBundles_v1](recobundles_LU_dti2_T1.pdf)
+- G: [RecoBundles_v1](recobundles_dtiapa_T1.pdf)
+- H: [RecoBundles_v1](recobundles_LU_hardi_T1.pdf)
 
 ## Inputs
 
