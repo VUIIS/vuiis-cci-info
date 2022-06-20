@@ -3,7 +3,7 @@
 ## Useful Pages
 
 - [BIDSMapping: Walkthrough Tutorial](bidsmapping_walkthrough.md)
-- [Download Data from XNAT]()
+- [Download Data from XNAT](download_xnat.md)
 - [Project Level Files for Vanderbilt XNAT](project_level_files.md)
 - [Sending DICOM to Vanderbilt XNAT](sending_dicom_to_xnat.md)
 - [Upload Data to XNAT]()
