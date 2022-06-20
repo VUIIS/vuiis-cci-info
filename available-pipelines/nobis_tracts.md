@@ -13,12 +13,6 @@ With this pipeline, we generate extended-amygdalar to brainstem structural conne
 - Singularity Recipe and Code: https://github.com/MASILab/nobis
 - SHA256 Hash: nobis_tracts_v1.0.5.simg (SHA256 e90a9c2916c3563d1c658590e0d0bc823f20cbee98624bca0462397cf35d20e2)
 
-## Examples
-
-**VUIIS_ABCD**
-
-**LANDMAN_UPGRAD**
-
 ## Code
 
 - [GitHub Repository for Current Spider](https://github.com/MASILab/nobis)
