@@ -24,4 +24,5 @@
 - [rbx_flow](rbx_flow.md)
 - [RecoBundles](recobundles.md)
 - [reface](reface.md)
+- [RSFC_CONN](rsfc_conn.md)
 - [Slant](slant.md) - Deep Whole Brain High Resolution Segmentation
