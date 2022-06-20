@@ -26,3 +26,4 @@
 - [reface](reface.md)
 - [RSFC_CONN](rsfc_conn.md)
 - [Slant](slant.md) - Deep Whole Brain High Resolution Segmentation
+- [Temporal_Lobe](temporal_lobe.md)
