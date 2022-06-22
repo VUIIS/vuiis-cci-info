@@ -16,6 +16,7 @@ Harrigan RL, Yvernault BC, Boyd BD, Damon SM, Gibney KD, Conrad BN, Phillips NS,
 ## Quick Links
 
 - [Available Pipelines](available-pipelines/README.md)
+- [Demonstration Area](available-pipelines/demo_area.md)
 - [FAQ](faq.md)
 - [Installing Matlab Inside a Singularity Image and Formatting Figure Output](matlab_singularity.md)
 - [System Status](SYSTEM-STATUS.md)
