@@ -12,3 +12,12 @@ For researchers who make substantial use of VUIIS CCI XNAT resources: when possi
 “This work was conducted in part using the resources of the Center for Computational Imaging at Vanderbilt University Institute of Imaging Science, Nashville, TN.”
 
 Harrigan RL, Yvernault BC, Boyd BD, Damon SM, Gibney KD, Conrad BN, Phillips NS, Rogers BP, Gao Y, Landman BA. Vanderbilt University Institute of Imaging Science Center for Computational Imaging XNAT: A multimodal data archive and processing environment. Neuroimage. 2016 Jan 1;124(Pt B):1097-101. doi: 10.1016/j.neuroimage.2015.05.021. PubMed PMID: 25988229; PubMed Central PMCID: PMC4646735. URL: [https://www.ncbi.nlm.nih.gov/pubmed/25988229](https://pubmed.ncbi.nlm.nih.gov/25988229/)
+
+## Quick Links
+
+- [Available Pipelines](available-pipelines/README.md)
+- [FAQ](faq.md)
+- [Installing Matlab Inside a Singularity Image and Formatting Figure Output](matlab_singularity.md)
+- [System Status](SYSTEM-STATUS.md)
+- [VUIIS CCI Facilities and Equipment Description](vuiis_cci_facility_equipment.md)
+- [XNAT](XNAT/README.md)
