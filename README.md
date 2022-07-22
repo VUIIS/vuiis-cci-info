@@ -19,6 +19,6 @@ Harrigan RL, Yvernault BC, Boyd BD, Damon SM, Gibney KD, Conrad BN, Phillips NS,
 - [Demonstration Area](available-pipelines/demo_area.md)
 - [FAQ](faq.md)
 - [Installing Matlab Inside a Singularity Image and Formatting Figure Output](matlab_singularity.md)
-- [System Status](SYSTEM-STATUS.md)
+- [System Status](https://my.vanderbilt.edu/vuiiscci/system-status-and-scheduled-downtime/)
 - [VUIIS CCI Facilities and Equipment Description](vuiis_cci_facility_equipment.md)
 - [XNAT](XNAT/README.md)
