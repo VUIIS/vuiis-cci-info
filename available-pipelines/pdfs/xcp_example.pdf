@@ -1,0 +1,452 @@
+%PDF-1.3
+1 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 3 0 R ]
+>>
+endobj
+2 0 obj
+<<
+/Producer (PyPDF2)
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F17adfd37f-a1b5-4ca9-aeb7-3137b4a19170 <<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+>>
+/ProcSet [ /PDF /Text /ImageB /ImageI /ImageC ]
+>>
+/Contents 8 0 R
+/MediaBox [ 0 0 612 792 ]
+/Annots [ ]
+>>
+endobj
+4 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+8 0 obj
+<<
+/Length 3584
+>>
+stream
+q
+2 J
+0.57 w
+BT
+/F1 13 Tf
+ET
+BT
+31.18 741.75 Td
+(PROJECT) Tj
+ET
+BT
+/F2 14 Tf
+ET
+107.55 760.05 482.4 -28.8 re
+S
+BT
+110.38 741.45 Td
+(GenFac\137HWZ) Tj
+ET
+BT
+/F1 13 Tf
+ET
+BT
+31.18 712.95 Td
+(SUBJECT) Tj
+ET
+BT
+/F2 14 Tf
+ET
+107.55 731.25 482.4 -28.8 re
+S
+BT
+110.38 712.65 Td
+(141765) Tj
+ET
+BT
+/F1 13 Tf
+ET
+BT
+31.18 684.15 Td
+(SESSION) Tj
+ET
+BT
+/F2 14 Tf
+ET
+107.55 702.45 482.4 -28.8 re
+S
+BT
+110.38 683.85 Td
+(141765) Tj
+ET
+BT
+/F1 14 Tf
+ET
+BT
+31.18 626.25 Td
+(INPUTS\072) Tj
+ET
+BT
+/F2 12 Tf
+ET
+BT
+31.18 608.85 Td
+(assr\137fmriprep) Tj
+ET
+118.35 623.25 72 -21.6 re
+S
+BT
+132.75 608.85 Td
+(ffb9e5) Tj
+ET
+BT
+/F2 7 Tf
+ET
+BT
+193.18 610.35 Td
+(GenFac\137HWZ\055x\055141765\055x\055141765\055x\055fmriprep\137v21\055x\055ceffb9e5) Tj
+ET
+BT
+/F2 12 Tf
+ET
+BT
+31.18 587.25 Td
+(scan\137fmri) Tj
+ET
+118.35 601.65 72 -21.6 re
+S
+BT
+143.55 587.25 Td
+(401) Tj
+ET
+BT
+/F2 7 Tf
+ET
+BT
+193.18 588.75 Td
+(\057projects\057GenFac\137HWZ\057subjects\057141765\057experiments\057141765\057scans\057401) Tj
+ET
+BT
+/F1 14 Tf
+ET
+BT
+31.18 532.65 Td
+(OUTPUTS\072) Tj
+ET
+BT
+/F3 12 Tf
+ET
+28.35 529.65 108 -21.6 re
+S
+BT
+31.18 515.25 Td
+(resource) Tj
+ET
+136.35 529.65 43.2 -21.6 re
+S
+BT
+145.61 515.25 Td
+(type) Tj
+ET
+179.55 529.65 403.2 -21.6 re
+S
+BT
+182.38 515.25 Td
+(path) Tj
+ET
+BT
+/F2 12 Tf
+ET
+28.35 508.05 108 -21.6 re
+S
+BT
+31.18 493.65 Td
+(HTML) Tj
+ET
+136.35 508.05 43.2 -21.6 re
+S
+BT
+143.55 493.65 Td
+(FILE) Tj
+ET
+179.55 508.05 403.2 -21.6 re
+S
+BT
+182.38 493.65 Td
+(xcp\137d\057\052\056html) Tj
+ET
+28.35 486.45 108 -21.6 re
+S
+BT
+31.18 472.05 Td
+(FUNC) Tj
+ET
+136.35 486.45 43.2 -21.6 re
+S
+BT
+147.15 472.05 Td
+(DIR) Tj
+ET
+179.55 486.45 403.2 -21.6 re
+S
+BT
+182.38 472.05 Td
+(xcp\137d\057func) Tj
+ET
+28.35 464.85 108 -21.6 re
+S
+BT
+31.18 450.45 Td
+(HTML) Tj
+ET
+136.35 464.85 43.2 -21.6 re
+S
+BT
+147.15 450.45 Td
+(DIR) Tj
+ET
+179.55 464.85 403.2 -21.6 re
+S
+BT
+182.38 450.45 Td
+(xcp\137d\057html) Tj
+ET
+28.35 443.25 108 -21.6 re
+S
+BT
+31.18 428.85 Td
+(ANAT) Tj
+ET
+136.35 443.25 43.2 -21.6 re
+S
+BT
+147.15 428.85 Td
+(DIR) Tj
+ET
+179.55 443.25 403.2 -21.6 re
+S
+BT
+182.38 428.85 Td
+(xcp\137d\057anat) Tj
+ET
+28.35 421.65 108 -21.6 re
+S
+BT
+31.18 407.25 Td
+(LOGS) Tj
+ET
+136.35 421.65 43.2 -21.6 re
+S
+BT
+147.15 407.25 Td
+(DIR) Tj
+ET
+179.55 421.65 403.2 -21.6 re
+S
+BT
+182.38 407.25 Td
+(xcp\137d\057logs) Tj
+ET
+BT
+/F1 14 Tf
+ET
+BT
+31.18 352.65 Td
+(JOB\072) Tj
+ET
+BT
+/F2 12 Tf
+ET
+BT
+/F1 12 Tf
+ET
+BT
+31.18 335.25 Td
+(jobid) Tj
+ET
+BT
+/F2 12 Tf
+ET
+85.95 349.65 72 -21.6 re
+S
+BT
+88.78 335.25 Td
+(44718407) Tj
+ET
+BT
+/F1 12 Tf
+ET
+BT
+31.18 313.65 Td
+(duration) Tj
+ET
+BT
+/F2 12 Tf
+ET
+85.95 328.05 72 -21.6 re
+S
+BT
+88.78 313.65 Td
+(00\07215\07231) Tj
+ET
+BT
+/F1 12 Tf
+ET
+BT
+31.18 292.05 Td
+(memory) Tj
+ET
+BT
+/F2 12 Tf
+ET
+85.95 306.45 72 -21.6 re
+S
+BT
+88.78 292.05 Td
+(2553296) Tj
+ET
+BT
+/F1 14 Tf
+ET
+BT
+/F1 12 Tf
+ET
+BT
+182.83 335.25 Td
+(dax\137version) Tj
+ET
+BT
+/F2 12 Tf
+ET
+266.4 349.65 316.8 -21.6 re
+S
+BT
+269.23 335.25 Td
+(2\0569\0562) Tj
+ET
+BT
+/F1 12 Tf
+ET
+BT
+182.83 313.65 Td
+(dax\137manager) Tj
+ET
+BT
+/F2 12 Tf
+ET
+266.4 328.05 316.8 -21.6 re
+S
+BT
+269.23 313.65 Td
+(lawlerd2\100hickory) Tj
+ET
+BT
+/F1 14 Tf
+ET
+BT
+31.18 262.65 Td
+(DESCRIPTION\072) Tj
+ET
+BT
+/F2 10 Tf
+ET
+BT
+31.18 252.33 Td
+(xcp\055d\040\055\040https\072\057\057xcp\055d\056readthedocs\056io\057en\057latest\057) Tj
+ET
+Q
+q
+2 J
+0.57 w
+BT
+/F17adfd37f-a1b5-4ca9-aeb7-3137b4a19170 9 Tf
+ET
+0.608 0.608 0.608 RG
+0.72 w
+14.4 777.6 m
+597.6 777.6 l
+S
+14.4 21.6 m
+597.6 21.6 l
+S
+BT
+24.43 780.3 Td
+(GenFac\137HWZ\055x\055141765\055x\055141765\055x\055xcp\137v0\055x\0559702b587) Tj
+ET
+BT
+24.43 11.7 Td
+(xcp\137v0) Tj
+ET
+BT
+463.63 11.7 Td
+(2022\05508\05505) Tj
+ET
+BT
+571.63 11.7 Td
+(1\0571) Tj
+ET
+Q
+
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000068 00000 n 
+0000000108 00000 n 
+0000000436 00000 n 
+0000000485 00000 n 
+0000000582 00000 n 
+0000000677 00000 n 
+0000000779 00000 n 
+trailer
+<<
+/Size 9
+/Root 4 0 R
+/Info 2 0 R
+>>
+startxref
+4415
+%%EOF

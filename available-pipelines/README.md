@@ -41,3 +41,4 @@
 - [tractoflow](tractoflow.md)
 - [tractometry_flow](tractometry_flow.md)
 - [tracula](tracula.md)
+- [XCP](xcp.md) - Uses outputs of fMRIprep to generate denoised BOLD images, parcellated time series, functional connectivity matrices, and quality assessment reports.
