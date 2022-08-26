@@ -7,7 +7,7 @@ In addition to the documentation and info here, we operate an email list with we
 
 ## Citing XNAT/DAX
 
-For researchers who make substantial use of VUIIS CCI XNAT resources: when possible, we would appreciate your acknowledging the Center for Computation Imaging in presentations and publications with one sentence in the acknowledgement and a citation of the relevant paper.
+For researchers who make substantial use of VUIIS CCI XNAT resources: when possible, we would appreciate your acknowledging the Center for Computation Imaging in presentations and publications with one sentence in the acknowledgement and a citation of the relevant paper(s).
 
 “This work was conducted in part using the resources of the Center for Computational Imaging at Vanderbilt University Institute of Imaging Science, Nashville, TN.”
 
