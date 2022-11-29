@@ -32,16 +32,27 @@ Scans coming in from PACS go through the pre-archive. In most cases they will th
   - Has “Receiving” or “Building” status? If it’s been a day since the scan, select the study’s checkbox and click “Rebuild” on the far right. Check again in a few hours.
   - Has “Conflict” or “Ready” status? Select the study’s checkbox and click “Review and Archive” on the far right. On the new page, don’t edit anything. Simply click “Submit” at the bottom. It is generally ok to ignore or click through any warnings about things already existing. Archiving might take an hour or so.
 
+### Dealing with multiple, same name scans before processing
+
+- If you know a specific scan is incomplete or inadequate quality, mark it 'unusable' in XNAT so it will be ignored in processing. This is the main mechanism for choosing which scans to use. 
+  - If there is more than one relevant scan is a session that is NOT marked 'unusable', automatic selection is reliable, but limited. The FIRST or LAST available matching scan can be selected, but this setting applies across the entire project and CANNOT be changed mid-stream without generating major issues. 
+  - If needing more information, the engineers can run an assessor on individual scans to give a preliminary set of reports for review. When there are a lot of cases with mulitiple potentially usable repeat scans, this is where to start..
+- Generally, deleting a scan from XNAT (but never from PACS) would be a last resort
+
 ### Setting quality status
 
-To mark a scan, e.g. Usable/Unusable:
+To mark multiple scans Usable/Unusable:
+
+- Use the Xnatreport and Xnatsetvar command line tools in dax
+
+To mark a single scan, e.g. Usable/Unusable:
 
 - Go the session page
 - Edit button in Actions menu (black text, at the right side)
 - Change the Quality setting for the relevant scan (but don’t change anything else)
 - Press blue Submit button at the bottom
 
-To mark an assessor, e.g. Passed/Good/Bad:
+To mark a single assessor, e.g. Passed/Good/Bad:
 - Go to the assessor page
 - Edit button in Actions menu
 - Update the “Status”
