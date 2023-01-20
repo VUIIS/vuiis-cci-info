@@ -14,7 +14,7 @@ All scans should go to the JOHNSON project, and scans would then need to be shar
 
 ### Setting up a new XNAT account
 
-1. Navigate to the XNAT entry page at https://xnat4.vandyxnat.org/xnat/
+1. Navigate to the XNAT entry page at https://bug.xnat.vanderbilt.edu/bugzilla/
 2. Click “Register” to request a new account. Choose your username and a *unique* password. This is separate from VU/VUMC systems so do not re-use your VU/VUMC passwords. VU/VUMC members should provide their vanderbilt.edu or vumc.org email address.
 3. You will receive an email from vuiis.cci@gmail.com asking you to verify your email address.
 4. After email verification, your account request will be reviewed manually, usually within a day or two. You (or your PI) will receive an email requesting confirmation of your access.
