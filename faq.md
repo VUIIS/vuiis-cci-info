@@ -14,11 +14,11 @@ All scans should go to the JOHNSON project, and scans would then need to be shar
 
 ### Setting up a new XNAT account
 
-1. Navigate to the XNAT entry page at https://bug.xnat.vanderbilt.edu/bugzilla/
-2. Click “Register” to request a new account. Choose your username and a *unique* password. This is separate from VU/VUMC systems so do not re-use your VU/VUMC passwords. VU/VUMC members should provide their vanderbilt.edu or vumc.org email address.
-3. You will receive an email from vuiis.cci@gmail.com asking you to verify your email address.
+1. Navigate to the XNAT entry page at https://xnat.vanderbilt.edu/xnat
+2. Click “Register” to request a new account. Choose your username and a *unique* password. This is separate from VU/VUMC systems, so do not re-use your VU/VUMC passwords. VU/VUMC members should provide their vanderbilt.edu or vumc.org email address.
+3. You will receive an email from vuiiscci-admin@vanderbilt.edu asking you to verify your email address.
 4. After email verification, your account request will be reviewed manually, usually within a day or two. You (or your PI) will receive an email requesting confirmation of your access.
-5. You will receive a welcome email from vuiis.cci@gmail.com. At this point you must log in at https://xnat4.vandyxnat.org/xnat/ to activate your account.
+5. You will receive a welcome email from vuiiscci-admin@vanderbilt.edu. At this point you must log in at https://xnat.vanderbilt.edu/xnat/ to activate your account.
 6. Once you have logged in, project owners will be able to grant you access to specific projects as desired. If you are a project owner (e.g. VU/VUMC PIs), you can navigate to your project’s “Access” tab to manage this.
 
 ### Some scan data are missing
@@ -53,6 +53,7 @@ To mark a single scan, e.g. Usable/Unusable:
 - Press blue Submit button at the bottom
 
 To mark a single assessor, e.g. Passed/Good/Bad:
+
 - Go to the assessor page
 - Edit button in Actions menu
 - Update the “Status”
@@ -67,11 +68,11 @@ A job’s outlog is usually helpful to distinguish whether a failure is due to a
 - Under Status, select Rerun
 - Click Submit at the bottom
 
-This usually takes effect the next night – the assessor status will change to NEED_INPUTS, then the job will re-enter the queue as usual. A restart may take longer for projects with large or complex pipelines set up.
+This usually takes effect within a few hours – the assessor status will change to NEED_INPUTS, then the job will re-enter the queue as usual. A restart may take longer for projects with large or complex pipelines set up.
 
 ### Deleting things on XNAT
 
-Be careful, obviously. Scan data can generally be re-acquired from PACS. Assessor/processor results and any files that have been uploaded from some other source, like manual segmentations, could be gone forever. Assessors can be re-run, but many have random initializations and don’t produce quite identical results every time. To delete a single resource or file of a scan (e.g. delete the NIFTI so it can be recreated, without deleting the DICOM):
+Be careful, obviously. The original scan data can generally be re-acquired from PACS. Assessor/processor results and any files that have been uploaded from some other source, like manual segmentations, could be gone forever. Assessors can easily be re-run, but some have random initializations and don’t produce quite identical results every time. To delete a single resource or file of a scan (e.g. delete the NIFTI so it can be recreated, without deleting the DICOM):
 - Go to the session page
 - Manage Files button in Actions menu (black text, right side)
 - Find the specific resource or file and click the red trash can icon
@@ -89,9 +90,6 @@ To delete an entire session or subject:
 - Go to the session or subject page
 - Delete button in Actions menu
 
-### SuperExport ZIP files won’t unzip
-
-On Mac OS X, the superexport files from gStudy don’t always unzip correctly in Finder. Unzip them using the unzip command at the Terminal command line.
 
 ### My job says NEED_INPUTS. What does this mean?
 
