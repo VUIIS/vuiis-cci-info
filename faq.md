@@ -65,7 +65,7 @@ A job’s outlog is usually helpful to distinguish whether a failure is due to a
 
 - Go to the assessor page, e.g. by clicking on the assessor name in the ProcID column under Processing on the session page
 - Click Edit button in Actions menu to the right
-- Under Status, select Rerun
+- Under Status, select **Rerun**
 - Click Submit at the bottom
 
 This usually takes effect within a few hours – the assessor status will change to NEED_INPUTS, then the job will re-enter the queue as usual. A restart may take longer for projects with large or complex pipelines set up.
