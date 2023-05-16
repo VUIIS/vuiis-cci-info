@@ -64,7 +64,7 @@ To mark a single assessor, e.g. Passed/Good/Bad:
 A job’s outlog is usually helpful to distinguish whether a failure is due to a problem with the data, or a momentary problems or downtime with XNAT or ACCRE. If the latter, it just needs to be restarted. A job can be restarted via the XNAT web interface:
 
 - Go to the assessor page, e.g. by clicking on the assessor name in the ProcID column under Processing on the session page
-- Click Edit button in Actions menu to the right
+- Click the Edit button in Actions menu to the right (Due to an XNAT bug, this page may take up to ~5 min to load if it's the first time you've accessed an Edit page after logging in.)
 - Under Status, select **Rerun**
 - Click Submit at the bottom
 

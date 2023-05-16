@@ -2,7 +2,7 @@
 
 [VUIIS CCI XNAT](https://xnat4.vandyxnat.org/xnat/) is operated by the VUIIS Center for Computational Imaging (VUIIS CCI) as part of the Human Imaging Core. The CCI is directed by [Baxter Rogers](https://vuiis.vumc.org/bio/baxter.rogers).
 
-In addition to the documentation and info here, we operate an email list with weekly meeting notices and occasional announcements: https://list.vumc.org/archives/vuiis-cci-users.html or contact us at masi-admin@list.vanderbilt.edu for help signing up.
+In addition to the documentation and info here, we operate an email list with weekly meeting notices and occasional announcements: https://list.vumc.org/archives/vuiis-cci-users.html or contact us at vuiiscci-admin@vanderbilt.edu for help signing up.
 
 
 ## Citing XNAT/DAX
