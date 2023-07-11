@@ -25,6 +25,6 @@ For researchers who make substantial use of VUIIS CCI XNAT resources: when possi
 - [FAQ](faq.md)
 - [Installing Matlab Inside a Singularity Image and Formatting Figure Output](matlab_singularity.md)
 - [System Status](https://my.vanderbilt.edu/vuiiscci/system-status-and-scheduled-downtime/)
-- [Uploading to Arch XNAT](vuiis_cci_facility_equipment.md)
+- [Uploading to Arch XNAT](arch_xnat_desk_client.md)
 - [VUIIS CCI Facilities and Equipment Description](vuiis_cci_facility_equipment.md)
 - [XNAT](XNAT/README.md)
