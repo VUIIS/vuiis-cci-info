@@ -24,6 +24,7 @@
 - [FMRIQA](fmriqa.md) - Motion realignment and creation of mean fMRI; Coregister T1 to mean fMRI; Compute SNR and quality metrics; Carpet plots, graphical report
 - [freesurfer](freesurfer.md) - Runs Freesurfer’s recon-all, plus hippocampus, thalamus, brainstem segmentation modules
 - [freesurfer720](freesurfer720.md)
+- [freesurfer741](freesurfer_741.md)
 - [FS6](fs6.md)
 - [LST](lst.md)
 - [MaCRUISE](macruise.md) – Consistent cortical reconstruction and multi-atlas brain segmentation
