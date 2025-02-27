@@ -17,7 +17,7 @@
 - [cerebellum](cerebellum.md) - This singularity image does N4 bias field correction; MNI registration; Cerebellum parcellation; Report generation
 - [cersuit](cersuit.md) - Cerebellar segmentation with the SUIT atlas and toolbox
 - [Connectivity Atlases Flow](connectivity-atlases-flow.md) - This pipeline facilitates the creation of atlases for Connectoflow
-- [connectoflow](connectoflow.md)
+- [connectoflow](connectoflow.md) - Connectoflow is Nextflow pipeline to generate Connectomics matrices from tractography data
 - [connprep](connprep.md) - Produces preprocessed fMRI images ready for connectivity analysis
 - [DTIQA/PreQual](dtiqa-prequal.md)- Preprocessing and quality checks for diffusion data
 - [examcard-to-txt](examcard-to-txt.md) - Convert examcards from DICOM to TXT, HTML, and PDF formats
