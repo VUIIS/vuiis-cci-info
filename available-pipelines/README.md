@@ -58,8 +58,8 @@
 
 #### Tractography
 
-- [Connectivity Atlases Flow](connectivity-atlases-flow.md)
-- [connectoflow](connectoflow.md)
+- [Connectivity Atlases Flow](connectivity-atlases-flow.md) - This pipeline facilitates the creation of atlases for Connectoflow
+- [connectoflow](connectoflow.md) - Connectoflow is Nextflow pipeline to generate Connectomics matrices from tractography data
 - [rbx_flow](rbx_flow.md)
 - [tractoflow](tractoflow.md)
 - [tractometry_flow](tractometry_flow.md)
