@@ -27,7 +27,7 @@
 - [LST](lst.md)
 - [MaCRUISE](macruise.md) – Consistent cortical reconstruction and multi-atlas brain segmentation
 - [magm_normalize](magm_normalize.md) – Computes a gray matter image from MultiAtlas output, and warps it to MNI space
-- mri-reface - ?????
+- [mri-reface](mri-reface.md) - mri_reface replaces identifiable face information in MRI/PET/CT scans to help prevent potential re-identification via face recognition
 - [mriqc](mriqc.md) – Extracts Image Quality Metrics (IQMs) for anatomical and fMRI scans.
 - [Multi_Atlas](multi_atlas.md) – loads the multi-atlas segmentation result images (SEG/orig_target_seg.nii.gz, and TICV/orig_target_ticv.nii.gz if available) and computes regional volumes
 - [reface](reface.md)
