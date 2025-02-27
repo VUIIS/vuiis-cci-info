@@ -1,4 +1,9 @@
-# connprep
+# XCP-D
+
+- [Documentation](https://xcp-d.readthedocs.io/en/latest/)
+- [Extras Repo](https://github.com/VUIIS/xcpd-processors/)
+
+# connprep (DEPRECATED)
 
 The connprep spider produces preprocessed fMRI images ready for connectivity analysis.
 
@@ -8,6 +13,7 @@ The connprep spider produces preprocessed fMRI images ready for connectivity ana
 
 ## Version Information
 
+- THIS VERSION IS DEPRECATED. SEE ABOVE FOR NEW VERSION
 - Current Version: connprep_v2.1.0
 - Processor Name: connprep_v2.1.0_processor.yaml
 - Singularity Recipe and Code: https://github.com/baxpr/connprep/tree/v2.1.0
