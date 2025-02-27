@@ -12,7 +12,7 @@
 
 ### Structural Segmentation / Template Registration
 
-- acapulco - ACAPULCO - Automatic Cerebellum Anatomical Parcellation Using U-Net with Locally Constrained Optimization ?????
+- [acapulco](acapulco.md) - ACAPULCO - Automatic Cerebellum Anatomical Parcellation Using U-Net with Locally Constrained Optimization ?????
 - ASHS - ?????
 - assemblynet - ?????
 - BFC - ?????
@@ -23,8 +23,6 @@
 - [cersuit](cersuit.md) - Cerebellar segmentation with the SUIT atlas and toolbox
 - DnSeg - ?????
 - [freesurfer](freesurfer.md) - Runs Freesurfer’s recon-all, plus hippocampus, thalamus, brainstem segmentation modules
-- [freesurfer720](freesurfer720.md)
-- [freesurfer741](freesurfer_741.md)
 - [FS6](fs6.md) - UPDATE TO FS7 ?????
 - [LST](lst.md)
 - [MaCRUISE](macruise.md) – Consistent cortical reconstruction and multi-atlas brain segmentation
