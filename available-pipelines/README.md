@@ -10,6 +10,20 @@
 
 ## Currently Available Pipelines
 
+### Structural Segmentation / Template Registration
+
+### Functional MRI
+
+### Diffusion
+
+#### Preprocessing
+
+#### Tractography
+
+#### NODDI/ODF Modeling
+
+#### Misc
+
 - [bedpostx](bedpostx.md) - FSL fiber orientation estimation for diffusion images
 - [BISCUIT, curve_extract, and surf_*](BISCUIT-curve_extract-surf.md) - Brain Shape Computing Toolbox – An Automated Pipeline for Cortical Morphometry
 - [BrainAgeGap](brainagegap.md)
