@@ -16,7 +16,7 @@
 - [cat12_ss2p0](cat12_ss2p0.md) - Computational Anatomy Toolbox for SPM
 - [cerebellum](cerebellum.md) - This singularity image does N4 bias field correction; MNI registration; Cerebellum parcellation; Report generation
 - [cersuit](cersuit.md) - Cerebellar segmentation with the SUIT atlas and toolbox
-- [Connectivity Atlases Flow](connectivity-atlases-flow.md)
+- [Connectivity Atlases Flow](connectivity-atlases-flow.md) - This pipeline facilitates the creation of atlases for Connectoflow
 - [connectoflow](connectoflow.md)
 - [connprep](connprep.md) - Produces preprocessed fMRI images ready for connectivity analysis
 - [DTIQA/PreQual](dtiqa-prequal.md)- Preprocessing and quality checks for diffusion data
