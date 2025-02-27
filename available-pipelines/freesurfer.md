@@ -26,7 +26,7 @@
 
 - [GitHub Repository for Current Spider](https://github.com/baxpr/freesurfer-iis)
 
-# freesurfer
+# freesurfer (DEPRECATED)
 
 ## Version Information
 
