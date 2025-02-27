@@ -44,7 +44,7 @@
 - [FMRIQA](fmriqa.md) - Motion realignment and creation of mean fMRI; Coregister T1 to mean fMRI; Compute SNR and quality metrics; Carpet plots, graphical report
 - fmriprep - ?????
 - [mriqc](mriqc.md) – Extracts Image Quality Metrics (IQMs) for anatomical and fMRI scans.
-- [XCP](xcp.md) - Uses outputs of fMRIprep to generate denoised BOLD images, parcellated time series, functional connectivity matrices, and quality assessment reports.
+- [XCP-D](connprep.md) - Uses outputs of fMRIprep to generate denoised BOLD images, parcellated time series, functional connectivity matrices, and quality assessment reports.
 
 ### Diffusion
 
