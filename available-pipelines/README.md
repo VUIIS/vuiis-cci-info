@@ -52,7 +52,7 @@
 - [DTIQA/PreQual](dtiqa-prequal.md)- Preprocessing and quality checks for diffusion data
 - [nobis_tracts](nobis_tracts.md) – Generate extended-amygdalar to brainstem structural connectomes from diffusion weighted and T1-weighted images
 - [RecoBundles](recobundles.md)
-- tbss-enigma - ?????
+- [tbss-enigma](tbss-enigma.md) 
 
 #### Preprocessing
 
