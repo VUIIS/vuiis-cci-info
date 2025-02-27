@@ -31,7 +31,7 @@
 - [mriqc](mriqc.md) – Extracts Image Quality Metrics (IQMs) for anatomical and fMRI scans.
 - [Multi_Atlas](multi_atlas.md) – loads the multi-atlas segmentation result images (SEG/orig_target_seg.nii.gz, and TICV/orig_target_ticv.nii.gz if available) and computes regional volumes
 - [reface](reface.md)
-- roi-resample - uses cat12 transform to resample an ROI image from atlas to participant native space.
+- [roi-resample](roi-resample.md) - uses cat12 transform to resample an ROI image from atlas to participant native space.
 - RWML - ?????
 - [Slant](slant.md) - Deep Whole Brain High Resolution Segmentation
 - [Temporal_Lobe](temporal_lobe.md)
@@ -42,7 +42,7 @@
 - [connprep](connprep.md) - Produces preprocessed fMRI images ready for connectivity analysis
 - EDATQA - ?????
 - [FMRIQA](fmriqa.md) - Motion realignment and creation of mean fMRI; Coregister T1 to mean fMRI; Compute SNR and quality metrics; Carpet plots, graphical report
-- fmriprep - ?????
+- [fmriprep](fmriprep.md) - fMRIPrep is a NiPreps (NeuroImaging PREProcessing toolS) application (www.nipreps.org) for the preprocessing of task-based and resting-state functional MRI (fMRI).
 - [mriqc](mriqc.md) – Extracts Image Quality Metrics (IQMs) for anatomical and fMRI scans.
 - [XCP-D](connprep.md) - Uses outputs of fMRIprep to generate denoised BOLD images, parcellated time series, functional connectivity matrices, and quality assessment reports.
 
