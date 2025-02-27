@@ -82,4 +82,4 @@
 - pibqa - ?????
 - [RSFC_CONN](rsfc_conn.md)
 - SAMSEG - ?????
-- synbold - ?????
+- [synbold](synbold.md) - This tool aims to enable susceptibility distortion correction with historical and/or limited datasets that do not include specific sequences for distortion correction (i.e. reverse phase-encoded scans)
