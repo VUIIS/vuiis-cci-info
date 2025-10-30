@@ -13,15 +13,15 @@
 ### Structural Segmentation / Template Registration
 
 - [acapulco](acapulco.md) - ACAPULCO - Automatic Cerebellum Anatomical Parcellation Using U-Net with Locally Constrained Optimization ?????
-- ASHS - ?????
-- assemblynet - ?????
-- BFC - ?????
+- ASHS
+- assemblynet
+- BFC
 - [BISCUIT, curve_extract, and surf_*](BISCUIT-curve_extract-surf.md) - Brain Shape Computing Toolbox – An Automated Pipeline for Cortical Morphometry
 - [BrainAgeGap](brainagegap.md)
 - [cat12_ss2p0](cat12_ss2p0.md) - Computational Anatomy Toolbox for SPM
 - [cerebellum](cerebellum.md) - This singularity image does N4 bias field correction; MNI registration; Cerebellum parcellation; Report generation
 - [cersuit](cersuit.md) - Cerebellar segmentation with the SUIT atlas and toolbox
-- DnSeg - ?????
+- DnSeg
 - [freesurfer](freesurfer.md) - Runs Freesurfer’s recon-all, plus hippocampus, thalamus, brainstem segmentation modules
 - [FS6](fs6.md) - UPDATE TO FS7 ?????
 - [LST](lst.md)
@@ -32,7 +32,7 @@
 - [Multi_Atlas](multi_atlas.md) – loads the multi-atlas segmentation result images (SEG/orig_target_seg.nii.gz, and TICV/orig_target_ticv.nii.gz if available) and computes regional volumes
 - [reface](reface.md)
 - [roi-resample](roi-resample.md) - uses cat12 transform to resample an ROI image from atlas to participant native space.
-- RWML - ?????
+- RWML
 - [Slant](slant.md) - Deep Whole Brain High Resolution Segmentation
 - [Temporal_Lobe](temporal_lobe.md)
 - [thomas](thomas.md)
@@ -40,7 +40,7 @@
 ### Functional MRI
 
 - [connprep](connprep.md) - Produces preprocessed fMRI images ready for connectivity analysis
-- EDATQA - ?????
+- EDATQA 
 - [FMRIQA](fmriqa.md) - Motion realignment and creation of mean fMRI; Coregister T1 to mean fMRI; Compute SNR and quality metrics; Carpet plots, graphical report
 - [fmriprep](fmriprep.md) - fMRIPrep is a NiPreps (NeuroImaging PREProcessing toolS) application (www.nipreps.org) for the preprocessing of task-based and resting-state functional MRI (fMRI).
 - [mriqc](mriqc.md) – Extracts Image Quality Metrics (IQMs) for anatomical and fMRI scans.
@@ -69,17 +69,17 @@
 
 #### Misc
 
-- AMYVIDQA - ?????
-- EEG-EGI - ?????
+- AMYVIDQA
+- EEG-EGI 
 - [examcard-to-txt](examcard-to-txt.md) - Convert examcards from DICOM to TXT, HTML, and PDF formats
-- FEOBVQA - ?????
-- mp2rage - ?????
-- NMQA - ?????
-- OCTQA_retina - ?????
-- ON_MR_segmentation - ?????
-- ON_MR_sheath_segmentation - ?????
-- petreg-CTAC - ?????
-- pibqa - ?????
+- FEOBVQA
+- mp2rage
+- NMQA
+- OCTQA_retina 
+- ON_MR_segmentation 
+- ON_MR_sheath_segmentation 
+- petreg-CTAC 
+- pibqa 
 - [RSFC_CONN](rsfc_conn.md)
-- SAMSEG - ?????
+- SAMSEG 
 - [synbold](synbold.md) - This tool aims to enable susceptibility distortion correction with historical and/or limited datasets that do not include specific sequences for distortion correction (i.e. reverse phase-encoded scans)
